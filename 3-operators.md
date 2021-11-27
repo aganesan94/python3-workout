@@ -52,3 +52,8 @@ is the same as
 ```
 a+=2
 ```
+
+```
+print(arun*2)
+arunarun
+```
