@@ -2,7 +2,8 @@
 
 * Function use def keyword and are use to modularize code and reuse code.
 * Variables declared inside function are declared inside the function.
-
+* Variables with global scope and local scope are placed differently in memory.
+* Arguments are passed by reference.
 
 ```python
 def printme():
